@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/available_chat_rooms_menu"
+        android:title="@string/available_chat_rooms"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/create_chat_room_menu"
+        android:title="@string/create_new_chat_room"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/sign_out_menu"
+        android:title="@string/sign_out"
+        app:showAsAction="never"/>
+
+</menu>

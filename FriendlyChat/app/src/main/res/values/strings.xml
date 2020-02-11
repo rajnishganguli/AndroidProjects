@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Friendly Chat</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="available_chat_rooms">Available Chat Rooms</string>
+    <string name="create_new_chat_room">Create New Chat Room</string>
+    <string name="send_button_label">Send</string>
+
+    <string name="current_chat_room_id">CURRENT_CHAT_ROOM_ID</string>
+    <string name="shared_preferences_file_for_friendly_chat">SHARED_PREFERENCES_FILE</string>
++
+</resources>
