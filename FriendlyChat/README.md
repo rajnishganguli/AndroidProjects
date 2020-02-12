@@ -12,3 +12,9 @@ Setup requires creating a Firebase project. See https://firebase.google.com/ for
 
 ## License
 See [LICENSE](LICENSE)
+
+# Additions
+Added support for multiple chat rooms.
+Users can add new chat rooms, see available chat rooms and select one.
+
+Users can edit or delete their own messages. However they can't edit/delete other users messages
